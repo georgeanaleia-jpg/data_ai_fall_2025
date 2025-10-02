@@ -72,11 +72,11 @@ _Estimated time to complete: 1.5 hours_
 
 _Estimated time to complete: 2 hours_
 
-- [ ] Pick [a SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-Resources?tab=readme-ov-file#sql) to do 2 hours of hands SQL practice 
+- [x] Pick [a SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-Resources?tab=readme-ov-file#sql) to do 2 hours of hands SQL practice 
 
 Additional resources: 
 
-- [ ] Complete this [Learn SQL: Aggregate Functions](https://www.codecademy.com/learn/learn-sql-aggregate-functions) course and mark when done
+- [x] Complete this [Learn SQL: Aggregate Functions](https://www.codecademy.com/learn/learn-sql-aggregate-functions) course and mark when done
 - [ ] Complete this [Learn AI for SQL](https://www.codecademy.com/learn/learn-ai-for-sql) course and mark when done
 
 # Assignment: 
